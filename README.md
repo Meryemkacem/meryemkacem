@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://github.com/Meryemkacem/meryemkacem/blob/main/Hello.png" alt="Hello" width="100%" />
 </p>
-
-<h1 align="center">Hi there, I'm Meryem 👋</h1>
-
 ---
 
 🎓 **Multidisciplinary Professional | Data Analyst | HSE Specialist**
