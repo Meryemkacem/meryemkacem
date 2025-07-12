@@ -49,9 +49,10 @@ I specialize in leveraging data to drive safety, sustainability, and operational
 ---
 
 ### 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryemkacem/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-kacem/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/meryem.kacem/vizzes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kacem.meryem02@gmail.com)
-[![Tableau](https://public.tableau.com/app/profile/meryem.kacem/vizzes) 
+
 
 ---
 
