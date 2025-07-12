@@ -17,7 +17,7 @@ I specialize in leveraging data to drive safety, sustainability, and operational
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 Tech Tools
 - **Languages**: SQL, Python, DAX, M
 - **BI Tools**: Power BI, Tableau, Excel (VBA, Power Query)
 - **Project Tools**: SharePoint, Microsoft Office Suite
