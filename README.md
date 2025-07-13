@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Meryemkacem/meryemkacem/blob/main/Hello.png" alt="Hello" width="100%" />
+  <img src="https://github.com/Meryemkacem/meryemkacem/blob/main/Hello.png" alt="bridging" width="100%" />
 </p>
 ---
 
