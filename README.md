@@ -6,9 +6,8 @@
 
 🎓 **BI & Data Analyst **
 
-💼 I'm a data-driven professional with a background in Health, Safety & Environment (HSE).  
-
-I specialize in leveraging data to drive safety, sustainability, and operational performance. I analyze and visualize HSE data to support compliance with international standards (e.g., ISO) and continuous improvement initiatives. Using Power BI and Tableau, I design dynamic dashboards that uncover trends and support decision-making. I rely on SQL and Python for data extraction, cleaning, and transformation, while using Excel (Power Query, VBA) for advanced analysis and automation.  
+💼 I am a Data Analyst (Microsoft Power BI Certified) 
+Focused on transforming raw data into clear insights and decision-ready dashboards. I transitioned from HSE Engineering in the Oil & Gas industry to Data Analytics, supported by an MBA in Big Data Management and Project Management Professional certification. I enjoy simplifying complexity, building KPI-tracking systems, and enabling teams to make faster, more informed decisions through Data.
 
 💡 My goal is to transform raw and complex data into actionable insights to support sustainability, operational efficiency, and safety.
 
@@ -34,7 +33,6 @@ I specialize in leveraging data to drive safety, sustainability, and operational
 🇹🇳 Arabic (Native)
 🇫🇷 French (Fluent)
 🇬🇧 English (Fluent)
-🇩🇪 German (Basic)
 
 ---
 
