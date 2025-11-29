@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://github.com/Meryemkacem/meryemkacem/blob/main/Bridging.png" alt="Bridging" width="100%" />
 </p>
----
 
-🎓 **Multidisciplinary Professional | Data Analyst | HSE Specialist**
+
+🎓 **BI & Data Analyst **
 
 💼 I'm a data-driven professional with a background in Health, Safety & Environment (HSE).  
 
@@ -15,10 +15,10 @@ I specialize in leveraging data to drive safety, sustainability, and operational
 ---
 
 ### 🚀 Tech Tools
-- **Languages**: SQL, Python, DAX, M
+- **Languages**: SQL, Python, DAX, M, Power Query
 - **BI Tools**: Power BI, Tableau, Excel (VBA, Power Query)
-- **Project Tools**: SharePoint, Microsoft Office Suite
-- **Certifications**: PMP®, NEBOSH IGC, Power BI Data Analyst Associate, Google Data Analytics Professional
+- **Tools**: SharePoint, Microsoft Office Suite, Confluence, Jira, Slack
+- **Certifications**: PMP®, Power BI Data Analyst Associate, Google Data Analytics Professional
 
 ---
 
