@@ -9,7 +9,6 @@
 💼 Data Analyst focused on transforming raw data into clear insights and decision-ready dashboards. Transitioned from HSE Engineering in the Oil & Gas industry to Data Analytics, supported by an MBA in Big Data Management and Project Management Professional certification.
 Having experience in simplifying complexity, building KPI tracking systems, and enabling data-driven decision-making.
 
-💡 My goal is to transform raw and complex data into actionable insights to support sustainability, operational efficiency, and safety.
 
 ---
 
@@ -22,10 +21,10 @@ Having experience in simplifying complexity, building KPI tracking systems, and 
 ---
 
 ### 📊 What I Do
-- Build interactive dashboards to track safety, environmental impact, and operational performance  
-- Analyze incident, audit, and emissions data for continuous improvement  
+- Build interactive dashboards to track Management , Business and Operations Performances
+- Analyze complex and diverse data for robust decision making and continuous improvement  
 - Present insights clearly for both technical and non-technical stakeholders  
-- Support ESG initiatives and sustainability reporting
+
 
 ---
 
