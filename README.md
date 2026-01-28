@@ -37,9 +37,7 @@ Focused on transforming raw data into clear insights and decision-ready dashboar
 ---
 
 ### 📁 Portfolio Projects
-- [HSE KPI Dashboard – Power BI](#)  
-- [Sustainability Reporting Template – Excel & Power BI](#)  
-- [Incident Trend Analysis – Tableau](#)
+- [HSE_Dashboard_Pbi_2026](#)  
 
 ---
 
