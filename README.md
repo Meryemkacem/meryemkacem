@@ -37,7 +37,7 @@ Focused on transforming raw data into clear insights and decision-ready dashboar
 ---
 
 ### 📁 Portfolio Projects
-- [HSE_Dashboard_Pbi_2026]([https://github.com/USERNAME/HSE_Dashboard_Pbi_2026](https://github.com/Meryemkacem/HSE_Dashboard_Pbi_2026/tree/main))  
+- [HSE_Dashboard_Pbi_2026](https://github.com/Meryemkacem/HSE_Dashboard_Pbi_2026/tree/main)
 
 ---
 
